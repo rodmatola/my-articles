@@ -11,7 +11,7 @@ Aqui uma lista com os artigos que escrevi para diversos blogs. Só clicar pra le
 
 ## [Blog da Concrete](https://concrete.com.br/)
 
-[Voce sabe testar talvez nao seja o suficiente](https://concrete.com.br/2017/07/03/voce-sabe-testar-talvez-nao-seja-o-suficiente)
+[Voce sabe testar? Talvez nao seja o suficiente...](https://concrete.com.br/2017/07/03/voce-sabe-testar-talvez-nao-seja-o-suficiente)
 
 [Testadores de software precisam aprender a programar?](https://concrete.com.br/2017/08/04/testadores-de-software-precisam-aprender-a-programar/)
 
