@@ -2,6 +2,8 @@
 
 Aqui uma lista com os artigos que escrevi para diversos blogs. Só clicar pra ler!
 
+Os mais acima de cada blog são os mais novos.
+
 ## [Blog Robotizando Testes](https://robotizandotestes.blogspot.com.br/)
 
 - [Season Running - Ep. 03: Rodandando seus testes web em paralelo com o Pabot](https://robotizandotestes.blogspot.com.br/2018/01/season-running-ep-03-rodandando-seus.html)
