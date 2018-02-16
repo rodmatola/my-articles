@@ -24,3 +24,5 @@ Os mais acima de cada blog são os mais novos.
 ## [Blog da GeekHunter](http://blog.geekhunter.com.br)
 
 Lista dos meus posts [aqui](http://blog.geekhunter.com.br/author/rodmatola/).
+
+[Como estar preparado para receber propostas do mercado](https://blog.mastertech.tech/carreira/como-estar-preparado-para-receber-propostas-do-mercado/) - Guest post para o [blog da Mastertech](https://blog.mastertech.tech/)
