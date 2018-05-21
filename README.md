@@ -4,6 +4,16 @@ Aqui uma lista com os artigos que escrevi para diversos blogs. Só clicar pra le
 
 Os mais acima de cada blog são os mais novos.
 
+## [Medium](https://medium.com/@rodrigomatola)
+
+No Medium escrevo sobre uma miscelânia de temas, tanto técnicos quanto pessoais.
+
+## [Blog do QA Sampa Meeting](https://medium.com/qa-sampa-meeting)
+
+Faço parte da organização do [QA Sampa Meeting](http://qasampameeting.com.br/) e uma das minhas atividades é escrever para o blog. 
+
+Nosso objetivo é dar workshops práticos sobre qualidade e automação de testes. No site, links para todas as nossas redes. Se você é QA ou se interessa por qualidade, não deixe de nos seguir!
+
 ## [Blog Robotizando Testes](https://robotizandotestes.blogspot.com.br/)
 
 - [Season Running - Ep. 03: Rodandando seus testes web em paralelo com o Pabot](https://robotizandotestes.blogspot.com.br/2018/01/season-running-ep-03-rodandando-seus.html)
