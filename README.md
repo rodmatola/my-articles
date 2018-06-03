@@ -36,3 +36,7 @@ Nosso objetivo é dar workshops práticos sobre qualidade e automação de teste
 Lista dos meus posts [aqui](http://blog.geekhunter.com.br/author/rodmatola/).
 
 [Como estar preparado para receber propostas do mercado](https://blog.mastertech.tech/carreira/como-estar-preparado-para-receber-propostas-do-mercado/) - Guest post para o [blog da Mastertech](https://blog.mastertech.tech/)
+
+## [Matemática na Real](http://www.matematicanareal.com.br/)
+
+Blog pessoal com o objetivo de mostrar como a Matemática é e pode ser usada no cotidiano de pessoas comuns. O projeto está paralisado por eu não estar mais atuando ativamente com a Matemática.
