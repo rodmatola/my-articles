@@ -8,7 +8,13 @@ Os mais acima de cada blog são os mais novos.
 
 No [Medium](https://medium.com/@rodrigomatola) escrevo sobre uma miscelânia de temas, tanto técnicos quanto pessoais.
 
+## [LinkedIn](https://www.linkedin.com/in/rodrigomatola/)
+
+No [LinkedIn](https://www.linkedin.com/in/rodrigomatola/detail/recent-activity/posts/) replico alguns posts meus de outras redes.
+
 ## [Blog da Concrete](https://concrete.com.br/)
+
+- [Trilha de Acessibilidade no TDC: O que aprendi](https://concrete.com.br/2018/09/19/17486/)
 
 - [Como eu faco (ou tento fazer) automacao de testes na sprint](https://concrete.com.br/2018/08/03/como-eu-faco-ou-tento-fazer-automacao-de-testes-na-sprint/)
 
