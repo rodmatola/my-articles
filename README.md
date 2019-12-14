@@ -12,6 +12,10 @@ No [Medium](https://medium.com/@rodrigomatola) escrevo sobre uma miscelânia de 
 
 No [LinkedIn](https://www.linkedin.com/in/rodrigomatola/detail/recent-activity/posts/) replico alguns posts meus de outras redes.
 
+## [Blog da Agile School](https://agileschool.com.br/category/artigos/)
+
+- [Pirâmide de testes e o risoto de sobras](https://agileschool.com.br/piramide-de-testes-e-o-risoto-de-sobras/)
+
 ## [Blog da Concrete](https://concrete.com.br/)
 
 - [Trilha de Acessibilidade no TDC: O que aprendi](https://concrete.com.br/2018/09/19/17486/)
