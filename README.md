@@ -4,6 +4,13 @@ Aqui uma lista com os artigos que escrevi para diversos blogs. Só clicar pra le
 
 Os mais acima de cada blog são os mais novos.
 
+## Testando suave
+
+Meu novo projeto para compartilhar conhecimento em testes e qualidade de software, incluindo automação e codificação.
+* [YouTube](https://www.youtube.com/channel/UC94jmHuMheEqOt0eRp4cr8w/)
+* [Instagram](https://www.instagram.com/testandosuave/)
+* [Medium](https://medium.com/testando-suave)
+
 ## [Medium](https://medium.com/@rodrigomatola)
 
 No [Medium](https://medium.com/@rodrigomatola) escrevo sobre uma miscelânia de temas, tanto técnicos quanto pessoais.
